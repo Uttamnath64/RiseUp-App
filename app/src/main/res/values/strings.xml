@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">RISEUP RUDRAKSHAA</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    // application
+    <string name="App_Name">RISEUP RUDRAKSHAA</string>
+    <string name="Mobile_Hint"> Mobile Number</string>
+    <string name="Password_Hint">Password</string>
+    <string name="FN_Hint">First Name</string>
+    <string name="LN_Hint">Last Name</string>
+    <string name="Email_Hint">Email Address</string>
+    <string name="DOB_Hint">Date of Birth</string>
+
+    //splash activity
+    <string name="Splash_Des">Dev. by lit</string>
+
+    // sign in activity
+    <string name="SignIn_Title">Sign In</string>
+    <string name="SignIn_Text">Require information to account sign in</string>
+    <string name="SignIn_ST">Already have an account?</string>
+
+    // sign up activity
+    <string name="SignUp_Title">Sign Up</string>
+    <string name="SignUp_Text">Require information to account creating</string>
+    <string name="SignUp_ST">Don\'t have an account?</string>
+
+    //forgot password
+    <string name="Forgot_ST">Forgot Password?</string>
+    <string name="title_activity_buttom">buttom</string>
+    <string name="title_activity_button">button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_article">Article</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_channel">Channel</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>

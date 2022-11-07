@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardElevation="2dp"
+    app:cardCornerRadius="8dp"
+    android:layout_margin="5dp"
+    android:layout_marginTop="100dp"
+    app:cardBackgroundColor="@color/white"
+    app:cardMaxElevation="5dp"
+    app:cardPreventCornerOverlap="true"
+    app:cardUseCompatPadding="true"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:clickable="true"
+    style="button"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <androidx.constraintlayout.utils.widget.ImageFilterView
+            android:id="@+id/channelLogo"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/app_icon"
+            app:round="8dp" />
+        <TextView
+            android:id="@+id/channelName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:textSize="18dp"
+            android:textColor="@color/Sub_Txt"
+            android:textStyle="bold"
+            android:layout_toEndOf="@id/channelLogo"
+            android:text="Uttam Nath"/>
+
+        <TextView
+            android:id="@+id/channelJoiner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/channelName"
+            android:layout_marginLeft="10dp"
+            android:layout_toEndOf="@id/channelLogo"
+            android:text="120 Joiner"
+            android:textColor="@color/Sub_Txt" />
+
+        <androidx.constraintlayout.utils.widget.ImageFilterView
+            android:id="@+id/channelArticle"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/back"
+            app:round="8dp" />
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

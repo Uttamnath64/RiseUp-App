@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable-v24/bottom_bar.xml" value="0.228125" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable-v24/other_button_back.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/account_image.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/article_data.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/article_title_back.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/button_back.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/button_editbox.xml" value="0.13229166666666667" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/cared_view_back.xml" value="0.3453703703703704" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/dailog_background.xml" value="0.2359375" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/edittext_back.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/editwithbutton.xml" value="0.13229166666666667" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/home_card_back.xml" value="0.3859375" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/ic_account.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/ic_achievement.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/ic_date.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/ic_dislike.xml" value="0.39947916666666666" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/ic_invalid.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/ic_valid.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/other_button_back.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/report_dailog.xml" value="0.2359375" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/round_image.xml" value="0.228125" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/spinner_background.xml" value="0.13229166666666667" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/drawable/topbar_back.xml" value="0.228125" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/achievement_list.xml" value="0.2" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/achievement_t1.xml" value="0.5" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/achievement_t2.xml" value="0.3875" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/achievement_t3.xml" value="0.3875" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/activity_account.xml" value="0.33" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/activity_achievement_view.xml" value="0.33" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/activity_article.xml" value="0.33" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/activity_article_view.xml" value="0.2203125" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/activity_channel.xml" value="0.33" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/activity_comments.xml" value="0.3875" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/activity_crrate_article.xml" value="0.3875" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/activity_profile.xml" value="0.3875" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/activity_search_page.xml" value="0.33" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/activity_sign_in.xml" value="0.5" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/activity_sign_up.xml" value="0.5" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/article_item_home.xml" value="0.25" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/bottom_navigation.xml" value="0.33" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/channel_list.xml" value="0.5" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/comment.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/fragment_achievement.xml" value="0.33" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/fragment_channel.xml" value="0.3734375" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/fragment_dashboard.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/fragment_fhome.xml" value="0.33" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/fragment_home.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/fragment_joined.xml" value="0.3697916666666667" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/fragment_library.xml" value="0.33" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/fragment_notifications.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/fragment_top_bar.xml" value="0.33" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/home_card.xml" value="0.25" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/home_card_view.xml" value="0.25" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/list_home_card.xml" value="0.25" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/report_dailog.xml" value="0.33" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/search_list.xml" value="0.2697201017811705" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/layout/search_lit.xml" value="0.3875" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3859375" />
+        <entry key="..\:/Users/uttam/AndroidStudioProjects/RiseUp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.228125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

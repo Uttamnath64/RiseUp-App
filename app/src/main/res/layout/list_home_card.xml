@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="2dp"
+    app:cardCornerRadius="8dp"
+    android:layout_margin="5dp"
+    android:layout_marginTop="100dp"
+    app:cardBackgroundColor="@color/white"
+    app:cardMaxElevation="5dp"
+    app:cardPreventCornerOverlap="true"
+    app:cardUseCompatPadding="true"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:clickable="true"
+    style="button"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativelayout">
+
+        <ImageView
+            android:id="@+id/IdListImage"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:background="@color/black"
+            android:backgroundTint="@color/black" />
+
+
+        <TextView
+            android:id="@+id/IdListTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/IdListImage"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="12dp"
+            android:lines="2"
+            android:maxLines="2"
+            android:minLines="1"
+            android:text="How to create android application in android studio | Android studio "
+            android:textColor="@color/Sub_Txt"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/IdListDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/IdListTitle"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginRight="12dp"
+            android:layout_marginBottom="4dp"
+            android:lines="2"
+            android:maxLines="2"
+            android:minLines="1"
+            android:text="How to create android How to create android application in android studio | Android studio "
+            android:textColor="@color/Border_Txt"
+            android:textSize="12dp"
+            android:textStyle="bold" />
+
+        <FrameLayout
+            android:id="@+id/HomeCardItemChannelLogo"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="9dp"
+            android:layout_below="@id/IdListDescription"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/IdListChannelLogo"
+                android:layout_width="25dp"
+                android:padding="3dp"
+                android:layout_height="25dp"
+                android:src="@drawable/logo"/>
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/round_image" />
+
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/IdListChannelName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/IdListDescription"
+            android:layout_marginLeft="4dp"
+            android:minLines="1"
+            android:lines="1"
+            android:maxLines="1"
+            android:layout_marginTop="4dp"
+            android:layout_marginBottom="15dp"
+            android:layout_toEndOf="@id/HomeCardItemChannelLogo"
+            android:text="Uttam Nath"
+            android:textColor="@color/Border_Txt"
+            android:textSize="12dp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+
+
+
+</androidx.cardview.widget.CardView>

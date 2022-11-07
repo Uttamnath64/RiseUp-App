@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.lit.riseup.Fhome"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_fhome" />
+
+    <fragment
+        android:id="@+id/navigation_library"
+        android:name="com.lit.riseup.library"
+        android:label="fragment_library"
+        tools:layout="@layout/fragment_library" />
+    <fragment
+        android:id="@+id/navigation_achievement"
+        android:name="com.lit.riseup.Achievement"
+        android:label="fragment_achievement"
+        tools:layout="@layout/fragment_achievement" />
+    <fragment
+        android:id="@+id/navigation_joined"
+        android:name="com.lit.riseup.Joined"
+        android:label="fragment_joined"
+        tools:layout="@layout/fragment_joined" />
+</navigation>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FFFF5722</color>
+    <color name="purple_700">#FFFF5722</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="bottom_card">#3CFF5722</color>
+    <color name="App_Color">#FFFF5722</color>
+
+    // lite theme
+    <color name="L_Title_Txt">#000000</color>
+    <color name="L_Sub_Txt">#595959</color>
+    <color name="L_Border_Txt">#8E8E8E</color>
+
+    // lite theme
+    <color name="D_Title_Txt">#FFFFFF</color>
+    <color name="D_Sub_Txt">#AFAFAF</color>
+    <color name="D_Border_Txt">#6A6A6A</color>
+
+    //password card view color
+    <color name="defultCR_Color">@color/Border_Txt</color>
+    <color name="validCR_Color">#4CAF50</color>
+    <color name="invalidCR_Color">#FF0000</color>
+
+    <color name="ButtonCardView">#E4E4E4</color>
+
+    <color name="A_S_1B">#48F44336</color>
+    <color name="A_S_1T">#F44336</color>
+
+    <color name="A_S_2B">#4B4CAF50</color>
+    <color name="A_S_2T">#4CAF50</color>
+
+
+</resources>

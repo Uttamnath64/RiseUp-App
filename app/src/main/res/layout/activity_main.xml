@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="170dp"
+        android:layout_height="200dp"
+        android:src="@drawable/app_icon" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:stateListAnimator="@android:anim/fade_out"
+        android:text="@string/App_Name"
+        android:textAllCaps="false"
+        android:layout_marginTop="30dp"
+        android:textColor="@color/Title_Txt"
+        android:textSize="25sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="A Philanthropic Initiative by\nRUDRAKSHA WELFARE FOUNDATION"
+        android:textColor="@color/Sub_Txt"
+        android:textSize="14sp"
+        android:layout_marginTop="30dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="A Section 8 Unit under Ministry of Corporate Affairs, GOI"
+        android:textColor="@color/Sub_Txt"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:text="🙏🏻जय श्री गणेशाय नमः🌹🕉️💯🙏🏻 🐚🌹ॐ नमः शिवाय🌹अतुल्यशिव 🌹 🙏🏻❤️🕉️༺❤️हरहरमहादेव ❤️༻🕉️❤️🙏🏻🌹 जय मां पार्वत्यै 🌹 देवीया: नमः🌹जय  मां नव दुर्गे  🌹🐚🙏🏻🌹 जय हिंद❤ वंदे मांतरम❤🇮🇳❤🙏😇 ❤🕉️💯🙏🏻😍🥰🕉😇🌹🌎🕉"
+        android:textColor="@color/Sub_Txt"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"/>
+
+
+</LinearLayout>

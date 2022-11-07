@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TopBar">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:id="@+id/layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/topbar_back"
+        android:padding="12dp">
+
+        <ImageView
+            android:id="@+id/applogo"
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:layout_alignParentStart="true"
+            android:src="@drawable/app_icon"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:id="@+id/appname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_toEndOf="@+id/applogo"
+            android:text="RiseUp"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+
+
+        <ImageButton
+            android:id="@+id/notification_button"
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:layout_toStartOf="@id/search_button"
+            android:background="@drawable/ic_notifications_black_24dp"
+            android:backgroundTint="@color/L_Sub_Txt" />
+
+        <ImageButton
+            android:id="@+id/search_button"
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:layout_marginLeft="20dp"
+            android:layout_toStartOf="@id/account_button"
+            android:background="@drawable/ic_search"
+            android:backgroundTint="@color/L_Sub_Txt" />
+
+        <ImageButton
+            android:id="@+id/account_button"
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/ic_account"
+            android:backgroundTint="@color/L_Sub_Txt" />
+    </RelativeLayout>
+
+</FrameLayout>
