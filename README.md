@@ -1,7 +1,7 @@
 
 # Riseup Application
 
-Riseup Application is a social networking site built using HTML, CSS, PHP, MySQL, and the MVC architectural pattern. This project is considered a core PHP project and is designed to have three different parts: User, Studio, and Admin.
+Riseup application development is done on the Riseup website. APIs are added to the Riseup website. The Riseup application is developed using XML, Android, and Java.
 
 
 ## Technologies Used
